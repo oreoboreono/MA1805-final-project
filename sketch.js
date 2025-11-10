@@ -1,14 +1,14 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowWidth*0.5625);
 }
 
 function player(){
-  x
+  
 
 }
 
 
 
 function draw() {
-  background(220);
+  background(0);
 }
