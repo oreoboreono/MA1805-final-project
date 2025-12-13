@@ -1,10 +1,5 @@
 function setup() {
-  createCanvas(windowWidth, windowWidth*0.5625);
-}
-
-function player(){
-  
-
+  createCanvas(3540, 1860);
 }
 
 
