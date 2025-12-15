@@ -22,6 +22,7 @@ Spellbook: This page is the tutorial page where you get to learn about all the s
 <img width="635" height="460" alt="image" src="https://github.com/user-attachments/assets/e8343098-1c73-4ce2-a92d-b81aba2da167" />
 
 Battle menu: This page is for the main gameplay for which takes place. The wizard is placed on the left of the screen and you have to survive 90 seconds which is shown through a battle timer on the top. The monster will periodically spawn from the left and you have to cast the specific corresponding spell to kill them and not let them reach your character. The spawn rate of the monsters and speed the monsters will come towards your character will increase over time to make the difficulty of the game ramp up and give a challenge to the user. The background shows where the monsters will come from with animated eyeballs. 
+<img width="840" height="448" alt="image" src="https://github.com/user-attachments/assets/bb53b0ea-4536-4c57-9e8f-981dc81fab24" />
 
 Win screen: animated illustration to show your win with a button to redirect to the main menu. 
 <img width="842" height="474" alt="image" src="https://github.com/user-attachments/assets/e5791ad5-aac6-443c-ac88-50bf7b44dbee" />
