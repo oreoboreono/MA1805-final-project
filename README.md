@@ -1,4 +1,6 @@
+#MA1805-final-project
 
+https://oreoboreono.github.io/MA1805-final-project/
 
 Description:
 The name of my project is a game called ‘The wizard’. In this game, you play the wizard fighting off a horde of monsters with your magic and killing them. You can cast magic by drawing specific shapes to your mouse - which correspond to a specific spell. Each spell can kill the monster of its corresponding type. In the game you have to survive 90 seconds by killing the monsters and not letting the monsters reach the wizard. If you survive, you win and if you fail you lose. All drawings, animation and music is made by me.
